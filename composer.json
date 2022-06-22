@@ -1,0 +1,9 @@
+{
+    "require": {
+        "maatwebsite/excel": "^3.1"
+    },
+	"config": {
+
+    	"platform-check": false
+	}
+}
